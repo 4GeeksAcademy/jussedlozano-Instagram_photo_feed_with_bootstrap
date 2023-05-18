@@ -1,0 +1,14 @@
+#logo{
+    font-family: 'Oleo Script'
+}
+ .p-footer{
+    text-align: justify;
+ }
+
+ .feed  img{
+    height: 100%;
+    width: 100%;
+    max-width: 420px;
+    max-height: 420px;
+    object-fit: cover;
+ }
